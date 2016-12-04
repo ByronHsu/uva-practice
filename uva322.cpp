@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cstring>
+//XDDD
 using namespace std;
 int w,h;//width height 2 ≤ w, h ≤ 16.
 char canmap[1000][17][17]; //可能的map
